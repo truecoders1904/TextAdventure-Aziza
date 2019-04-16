@@ -1,0 +1,11 @@
+/Users/z/Desktop/againagain/againagain/bin/Debug/netcoreapp2.1/againagain.deps.json
+/Users/z/Desktop/againagain/againagain/bin/Debug/netcoreapp2.1/againagain.runtimeconfig.json
+/Users/z/Desktop/againagain/againagain/bin/Debug/netcoreapp2.1/againagain.runtimeconfig.dev.json
+/Users/z/Desktop/againagain/againagain/bin/Debug/netcoreapp2.1/againagain.dll
+/Users/z/Desktop/againagain/againagain/bin/Debug/netcoreapp2.1/againagain.pdb
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.csprojAssemblyReference.cache
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.csproj.CoreCompileInputs.cache
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.AssemblyInfoInputs.cache
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.AssemblyInfo.cs
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.dll
+/Users/z/Desktop/againagain/againagain/obj/Debug/netcoreapp2.1/againagain.pdb
